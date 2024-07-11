@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Joyce"
 title_separator          : "-"
 name                     : &name "Joyce"
-description              : &description "学生"
-url                      : https://joycellll.github.io/Joycellll/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "student"
+url                      : "https://joycellll.github.io/Joycellll"/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Joycellll/Joycellll"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Joyce"
-  pronouns         : # example: "she/her"  
-  bio              : "学生"
+  pronouns         : "she"# example: "she/her"  
+  bio              : "student"
   location         : "china"
   employer         : "Zhejiang University"
-  uri              : # URL
+  uri              :  "https://joycellll.github.io/Joycellll"# URL
   email            : "1803715938@163.com" 
 
   # Academic websites
